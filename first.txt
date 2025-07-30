@@ -2,3 +2,4 @@ gitの基本操作
 基本フローを学びます。
 git add 
 git commit
+git remove

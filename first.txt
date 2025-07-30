@@ -3,3 +3,5 @@ gitの基本操作
 git add 
 git commit
 git remove
+git status
+
